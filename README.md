@@ -1,4 +1,4 @@
-# Tableau Project
+# Tableau Project 2
 
 For this project, I used Tableau to visualize Russian attacks on Ukrainian civilians.
 
